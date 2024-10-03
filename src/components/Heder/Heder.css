@@ -1,0 +1,51 @@
+.header{
+    color: black;
+    width: 2380px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+}
+
+.header ul{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    margin-top: -90px;
+    margin-left: 400px;
+   
+}
+
+
+
+
+
+.imput{
+    width: 300px;
+    height: 30px;
+    margin-left: 2300px;
+  margin-top: -40px;
+  border-radius: 9px;
+  
+  border: color(srgb rgb(170, 166, 166) rgb(149, 155, 149) rgb(146, 146, 153));
+}
+
+
+
+
+.a1{
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    margin-left: 180px;
+    margin-top: -30px;
+    background-color: #fff;
+}
+
+
+.a2{
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    margin-left: 250px;
+    margin-top: -30px;
+    background-color: #fff;
+   
+}

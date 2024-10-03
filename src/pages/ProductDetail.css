@@ -1,0 +1,158 @@
+.ima img{
+    width: 100px;
+    height: 100px;
+
+}
+
+
+
+.gla img{
+    width: 900px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
+.vip{
+    position: absolute;
+    width: 896px;
+    height: 900px;
+    border: 5px solid #000000;
+    margin-top: -620px;
+    box-shadow: 5px 10px 10px 10px black;
+    
+}
+
+
+.vi{
+    position: absolute;
+    width: 896px;
+    height: 610px;
+    border: 5px solid #000000;
+    margin-top: -620px;
+}
+
+
+.v{
+    position: absolute;
+    width: 896px;
+    height: 500px;
+    border: 7px solid #000000;
+    margin-top: -620px;
+}
+
+
+.one{
+    position: absolute;
+    width: 95px;
+    height: 97px;
+    border: 5px solid black;
+    margin-top: -5px;
+
+}
+
+
+
+
+
+
+.on{
+    position: absolute;
+    width: 95px;
+    height: 97px;
+    border: 5px solid black;
+    margin-top: -5px;
+    margin-left: 100px;
+
+}
+
+
+
+.o{
+    position: absolute;
+    width: 95px;
+    height: 97px;
+    border: 5px solid black;
+    margin-top: -5px;
+    margin-left: 200px;
+
+
+}
+
+
+.ox{
+    position: absolute;
+    width: 420px;
+    height: 290px;
+    border: 5px solid black;
+    margin-top: 100px;
+    background-color: #ccc;
+    
+
+
+}
+
+
+
+.ox h6{
+    color: #000000;
+    font-size: 30px;
+    font-weight: 900;
+    margin-top: 10px;
+}
+
+
+.ox h5{
+    color: #000000;
+    font-size: 20px;
+    font-weight: 900;
+    margin-top: -50px;
+}
+
+
+
+.bmw{
+    margin-left: 450px;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.bot {
+    position: absolute;
+    width: 280px;
+    height: 50px;
+    background-color: green;
+    color: #fff;
+    margin-top: -339px;
+    margin-left: 615px;
+    cursor: pointer;
+    
+
+}
+
+
+.bot:hover{
+    box-shadow: 0px 5px 5px 5px black;
+}
+
+
+.too:hover{
+    box-shadow: 0px 5px 5px 5px black;
+}
+
+
+
+
+
+.too{
+    position: absolute;
+    width: 280px;
+    height: 50px;
+    background-color: rgb(255, 0, 0);
+    color: #fff;
+    margin-top: -339px;
+    margin-left: 320px;
+    cursor: pointer;
+
+}
+

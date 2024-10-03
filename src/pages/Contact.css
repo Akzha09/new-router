@@ -1,0 +1,28 @@
+.vop{
+    width: 1450px;
+    height: 300px;
+    display: flex;
+    gap: 100px;
+    border: 2px solid #ffffff;
+    background-color: rgb(94, 4, 4);
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+
+
+
+.bots {
+    width: 200px;
+    height: 300px;
+}
+
+.bots img{
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+}
+.bots h3 {
+    text-align: center;
+    color: rgb(70, 59, 168);
+}
